@@ -124,7 +124,7 @@ const Volunteer = () => {
   return (
     <div className="border p-4 rounded-lg text-center overflow-hidden w-96 h-112">
       <img 
-        src="" 
+        src="/image-3.jpg" 
         alt="Volunteer" 
         className="w-full h-48 object-cover rounded-lg mb-4 transform transition-transform duration-300 hover:scale-105" 
       />
